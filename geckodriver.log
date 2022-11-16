@@ -1,0 +1,711 @@
+1668593553916	geckodriver	INFO	Listening on 127.0.0.1:59517
+1668593553921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejxOhNh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593555147	Marionette	INFO	Marionette enabled
+1668593555160	Marionette	INFO	Listening on port 41357
+Read port: 41357
+WebDriver BiDi listening on ws://127.0.0.1:58957
+1668593555287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejxOhNh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58957/devtools/browser/e0ca0b49-93b5-4bcd-a5cd-05e49c183d1b
+1668593563159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668593572515	Marionette	INFO	Stopped listening on port 41357
+1668593714721	geckodriver	INFO	Listening on 127.0.0.1:60601
+1668593715231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRIbi6u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593716542	Marionette	INFO	Marionette enabled
+1668593716548	Marionette	INFO	Listening on port 37199
+Read port: 37199
+WebDriver BiDi listening on ws://127.0.0.1:37129
+1668593716680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRIbi6u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37129/devtools/browser/f10d1d3d-f656-4618-8a14-2b9e5488e968
+1668593720938	Marionette	INFO	Stopped listening on port 37199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668593840012	geckodriver	INFO	Listening on 127.0.0.1:37917
+1668593840518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1gZ4nT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593841717	Marionette	INFO	Marionette enabled
+1668593841723	Marionette	INFO	Listening on port 39711
+WebDriver BiDi listening on ws://127.0.0.1:33929
+Read port: 39711
+1668593841988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1gZ4nT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33929/devtools/browser/0d89cd74-955f-44c2-9053-47794377525a
+1668593847606	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:17:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668593852089	geckodriver	INFO	Listening on 127.0.0.1:52179
+1668593852588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevUNAcl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593854257	Marionette	INFO	Marionette enabled
+1668593854263	Marionette	INFO	Listening on port 33939
+Read port: 33939
+WebDriver BiDi listening on ws://127.0.0.1:41291
+1668593854455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevUNAcl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41291/devtools/browser/8ec579c4-8e56-41a1-823f-80aa632fa0d5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668593863569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:17:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 524 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668593879872	Marionette	INFO	Stopped listening on port 33939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668593882972	Marionette	INFO	Stopped listening on port 39711
+1668593926630	geckodriver	INFO	Listening on 127.0.0.1:51351
+1668593927141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWQJYIB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593928769	Marionette	INFO	Marionette enabled
+1668593928782	Marionette	INFO	Listening on port 39799
+Read port: 39799
+WebDriver BiDi listening on ws://127.0.0.1:48599
+1668593928922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWQJYIB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48599/devtools/browser/16ce5537-b232-4512-8dad-06931357ee27
+1668593934778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:18:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668593939542	Marionette	INFO	Stopped listening on port 39799
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1668593940744	geckodriver	INFO	Listening on 127.0.0.1:51963
+1668593941247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledg4PWV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593942434	Marionette	INFO	Marionette enabled
+1668593942445	Marionette	INFO	Listening on port 38211
+Read port: 38211
+WebDriver BiDi listening on ws://127.0.0.1:56339
+1668593942545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledg4PWV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56339/devtools/browser/9d0fd5ab-1fb4-4355-9945-89e79455d983
+1668593955220	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1158 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 32168, MediaDecoderStateMachine #1] WARNING: Decoder=7f3e3980ef00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 32168, MediaDecoderStateMachine #1] WARNING: Decoder=7f3e3980ef00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 32168, MediaDecoderStateMachine #1] WARNING: Decoder=7f3e3c0e5500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 32168, MediaDecoderStateMachine #1] WARNING: Decoder=7f3e3c0e5500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668593968605	Marionette	INFO	Stopped listening on port 38211
+1668593990428	geckodriver	INFO	Listening on 127.0.0.1:38983
+1668593990433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0xQOFR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668593991338	Marionette	INFO	Marionette enabled
+1668593991343	Marionette	INFO	Listening on port 44331
+WebDriver BiDi listening on ws://127.0.0.1:46285
+Read port: 44331
+1668593991583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0xQOFR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46285/devtools/browser/4d6a7a6a-7551-4cb9-8a54-2594123e9a3d
+1668593995939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:19:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 32771, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e8353d700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 32771, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e8353d700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668594008818	Marionette	INFO	Stopped listening on port 44331
+1668594009622	geckodriver	INFO	Listening on 127.0.0.1:44837
+1668594010131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepgCKzL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594011060	Marionette	INFO	Marionette enabled
+1668594011066	Marionette	INFO	Listening on port 36195
+Read port: 36195
+WebDriver BiDi listening on ws://127.0.0.1:39287
+1668594011175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepgCKzL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39287/devtools/browser/06181cd6-8f93-463d-bfe0-a69eb1690d59
+1668594016821	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:20:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668594019214	Marionette	INFO	Stopped listening on port 36195
+1668594032654	geckodriver	INFO	Listening on 127.0.0.1:50501
+1668594032659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexKYLf3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594033668	Marionette	INFO	Marionette enabled
+1668594033677	Marionette	INFO	Listening on port 34083
+WebDriver BiDi listening on ws://127.0.0.1:50787
+Read port: 34083
+1668594033894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexKYLf3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50787/devtools/browser/b4936726-3bc2-437b-b588-c8a3614493fc
+1668594039655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:20:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:20:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668594045973	Marionette	INFO	Stopped listening on port 34083
+1668594046801	geckodriver	INFO	Listening on 127.0.0.1:53589
+1668594047304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile75Ojam"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594048121	Marionette	INFO	Marionette enabled
+1668594048126	Marionette	INFO	Listening on port 39619
+WebDriver BiDi listening on ws://127.0.0.1:60731
+Read port: 39619
+1668594048372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile75Ojam/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60731/devtools/browser/02a064c5-6480-44c0-8d80-3025a49f0b71
+1668594050785	Marionette	INFO	Stopped listening on port 39619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668594166813	geckodriver	INFO	Listening on 127.0.0.1:36571
+1668594166817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQbjAzz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594167649	Marionette	INFO	Marionette enabled
+1668594167655	Marionette	INFO	Listening on port 33175
+Read port: 33175
+WebDriver BiDi listening on ws://127.0.0.1:49763
+1668594167765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQbjAzz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49763/devtools/browser/8b626a4b-1f62-43ae-b021-558a98693e43
+1668594172153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:22:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2978 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668594175482	Marionette	INFO	Stopped listening on port 33175
+1668594176131	geckodriver	INFO	Listening on 127.0.0.1:40501
+1668594176643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7nvffU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594178113	Marionette	INFO	Marionette enabled
+1668594178125	Marionette	INFO	Listening on port 43963
+Read port: 43963
+WebDriver BiDi listening on ws://127.0.0.1:40975
+1668594178275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7nvffU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40975/devtools/browser/5aa6119b-df61-4e3f-9319-80a916af0e64
+1668594182446	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:23:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:23:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2836 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 35011, MediaDecoderStateMachine #1] WARNING: Decoder=7fd4fd438800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 35011, MediaDecoderStateMachine #1] WARNING: Decoder=7fd4fd438800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668594194881	Marionette	INFO	Stopped listening on port 43963
+1668594334427	geckodriver	INFO	Listening on 127.0.0.1:45423
+1668594334431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4r0gS7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594335285	Marionette	INFO	Marionette enabled
+1668594335290	Marionette	INFO	Listening on port 39061
+Read port: 39061
+WebDriver BiDi listening on ws://127.0.0.1:36793
+1668594335385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4r0gS7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36793/devtools/browser/632e5543-1763-46d1-9b01-d56963ac913a
+1668594342817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:25:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5919 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-11-16T10:25:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668594347827	Marionette	INFO	Stopped listening on port 39061
+1668594348726	geckodriver	INFO	Listening on 127.0.0.1:58805
+1668594349237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCIFL1F"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668594350640	Marionette	INFO	Marionette enabled
+1668594350646	Marionette	INFO	Listening on port 42983
+Read port: 42983
+WebDriver BiDi listening on ws://127.0.0.1:43707
+1668594350783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCIFL1F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43707/devtools/browser/b6648a6d-eeba-4dae-b3b0-16dbaf9405f5
+1668594356894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:25:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:25:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668594360639	Marionette	INFO	Stopped listening on port 42983
+1668595009621	geckodriver	INFO	Listening on 127.0.0.1:43391
+1668595010137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekLEMu1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595011044	Marionette	INFO	Marionette enabled
+1668595011048	Marionette	INFO	Listening on port 46139
+Read port: 46139
+WebDriver BiDi listening on ws://127.0.0.1:59111
+1668595011195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekLEMu1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59111/devtools/browser/365e202c-f1da-4e09-b61b-37477c0bc43e
+1668595016883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:36:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:36:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[2022-11-16T10:36:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:36:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 838 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 38124, MediaDecoderStateMachine #1] WARNING: Decoder=7f63acf49d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 38124, MediaDecoderStateMachine #1] WARNING: Decoder=7f63acf49d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 38124, MediaDecoderStateMachine #1] WARNING: Decoder=7f63abf04f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 38124, MediaDecoderStateMachine #1] WARNING: Decoder=7f63abf04f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668595028269	Marionette	INFO	Stopped listening on port 46139
+1668595029124	geckodriver	INFO	Listening on 127.0.0.1:45269
+1668595029643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5CXvVR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595030902	Marionette	INFO	Marionette enabled
+1668595030907	Marionette	INFO	Listening on port 34709
+Read port: 34709
+WebDriver BiDi listening on ws://127.0.0.1:45863
+1668595031028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5CXvVR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45863/devtools/browser/0c40059d-2fe9-484a-829c-5dbd6e33a458
+1668595041700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:37:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-11-16T10:37:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:37:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668595048241	Marionette	INFO	Stopped listening on port 34709
+1668595373999	geckodriver	INFO	Listening on 127.0.0.1:54389
+1668595374517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh5sE1Z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595375652	Marionette	INFO	Marionette enabled
+1668595375657	Marionette	INFO	Listening on port 33719
+Read port: 33719
+WebDriver BiDi listening on ws://127.0.0.1:43375
+1668595375789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh5sE1Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43375/devtools/browser/02637d21-375e-4f68-bb58-4657aa841fbf
+1668595380186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:43:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668595383455	Marionette	INFO	Stopped listening on port 33719
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595383988	geckodriver	INFO	Listening on 127.0.0.1:52371
+1668595384498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqIgwxk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595385432	Marionette	INFO	Marionette enabled
+1668595385438	Marionette	INFO	Listening on port 44025
+Read port: 44025
+WebDriver BiDi listening on ws://127.0.0.1:58767
+1668595385606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqIgwxk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58767/devtools/browser/a25a16d3-fc3e-4ee9-8da8-274879be31f4
+1668595391024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:43:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595394109	Marionette	INFO	Stopped listening on port 44025
+1668595407209	geckodriver	INFO	Listening on 127.0.0.1:43017
+1668595407215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ1UhdB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595407885	Marionette	INFO	Marionette enabled
+1668595407888	Marionette	INFO	Listening on port 41165
+Read port: 41165
+WebDriver BiDi listening on ws://127.0.0.1:48365
+1668595408017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ1UhdB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48365/devtools/browser/9293c68a-f3cc-4739-9d68-05aeee5c1526
+1668595414216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:43:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595417361	Marionette	INFO	Stopped listening on port 41165
+1668595417874	geckodriver	INFO	Listening on 127.0.0.1:55651
+1668595418383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePHCheU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595419158	Marionette	INFO	Marionette enabled
+1668595419161	Marionette	INFO	Listening on port 45633
+Read port: 45633
+WebDriver BiDi listening on ws://127.0.0.1:60771
+1668595419277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePHCheU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60771/devtools/browser/69583694-7ad4-4c79-a7e7-38f2735338fb
+1668595423296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:43:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:43:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 41372, MediaDecoderStateMachine #1] WARNING: Decoder=7f3c7ef7f700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 41372, MediaDecoderStateMachine #1] WARNING: Decoder=7f3c7ef7f700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595434915	Marionette	INFO	Stopped listening on port 45633
+1668595615924	geckodriver	INFO	Listening on 127.0.0.1:47013
+1668595615930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilealfZS9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595616908	Marionette	INFO	Marionette enabled
+1668595616914	Marionette	INFO	Listening on port 41639
+Read port: 41639
+WebDriver BiDi listening on ws://127.0.0.1:60429
+1668595617105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilealfZS9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60429/devtools/browser/e683d240-3b9a-492e-a633-411830855ce7
+1668595621486	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:47:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668595623845	Marionette	INFO	Stopped listening on port 41639
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 67 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595625832	geckodriver	INFO	Listening on 127.0.0.1:33797
+1668595626341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAxy4yA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595627878	Marionette	INFO	Marionette enabled
+1668595627884	Marionette	INFO	Listening on port 33335
+Read port: 33335
+WebDriver BiDi listening on ws://127.0.0.1:46021
+1668595628036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAxy4yA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46021/devtools/browser/d2e65665-94d6-4031-af6e-36baa6e2ac4c
+1668595633342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:47:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:47:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6920 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7309 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 43065, MediaDecoderStateMachine #1] WARNING: Decoder=7f4a3d782b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 43065, MediaDecoderStateMachine #1] WARNING: Decoder=7f4a3d782b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668595645527	Marionette	INFO	Stopped listening on port 33335
+1668595715923	geckodriver	INFO	Listening on 127.0.0.1:36423
+1668595715928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKDg4ei"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595716713	Marionette	INFO	Marionette enabled
+1668595716716	Marionette	INFO	Listening on port 35389
+Read port: 35389
+WebDriver BiDi listening on ws://127.0.0.1:50263
+1668595716818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKDg4ei/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50263/devtools/browser/931b6419-3c1b-46ce-b75f-a50f92c86316
+1668595721196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QGFuHoK4033I77EUOCWiSgLZQnV0JZNGeqanr-0Huck.js line 2 > eval line 3052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595723524	Marionette	INFO	Stopped listening on port 35389
+1668595724053	geckodriver	INFO	Listening on 127.0.0.1:39915
+1668595724564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile14UTVz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595725752	Marionette	INFO	Marionette enabled
+1668595725760	Marionette	INFO	Listening on port 38557
+Read port: 38557
+WebDriver BiDi listening on ws://127.0.0.1:47249
+1668595725896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile14UTVz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47249/devtools/browser/1a8ef32e-c3c8-414b-9d7d-bb3c33733959
+1668595730609	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:48:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:48:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QGFuHoK4033I77EUOCWiSgLZQnV0JZNGeqanr-0Huck.js line 2 > eval line 7109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 44083, MediaDecoderStateMachine #1] WARNING: Decoder=7f70fc585e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 44083, MediaDecoderStateMachine #1] WARNING: Decoder=7f70fc585e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QGFuHoK4033I77EUOCWiSgLZQnV0JZNGeqanr-0Huck.js line 2 > eval line 4507 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595742793	Marionette	INFO	Stopped listening on port 38557
+1668595778064	geckodriver	INFO	Listening on 127.0.0.1:34367
+1668595778070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileumGE09"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595778786	Marionette	INFO	Marionette enabled
+1668595778792	Marionette	INFO	Listening on port 33185
+Read port: 33185
+WebDriver BiDi listening on ws://127.0.0.1:33799
+1668595778943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileumGE09/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33799/devtools/browser/1cfa75b9-cd0f-4fbf-b21c-0c950a2bd6d1
+1668595783689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595786665	Marionette	INFO	Stopped listening on port 33185
+1668595787163	geckodriver	INFO	Listening on 127.0.0.1:51869
+1668595787677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH6zxWj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595788499	Marionette	INFO	Marionette enabled
+1668595788502	Marionette	INFO	Listening on port 37425
+WebDriver BiDi listening on ws://127.0.0.1:33335
+Read port: 37425
+1668595788702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH6zxWj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33335/devtools/browser/5db83426-c686-4803-bf24-33af3c054e41
+1668595792704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:49:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:49:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595795352	Marionette	INFO	Stopped listening on port 37425
+1668595818580	geckodriver	INFO	Listening on 127.0.0.1:52003
+1668595818586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNoC2mX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595819289	Marionette	INFO	Marionette enabled
+1668595819292	Marionette	INFO	Listening on port 44143
+Read port: 44143
+WebDriver BiDi listening on ws://127.0.0.1:38339
+1668595819447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNoC2mX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38339/devtools/browser/cdd74d48-b535-43f7-a2a4-abff0532dd44
+1668595823700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-11-16T10:50:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edeaa00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edeaa00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edea400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edea400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edaca00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edaca00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edea700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 45624, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c5edea700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-RrvMcb/firefox-106.0.5+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668595836390	Marionette	INFO	Stopped listening on port 44143
+1668595839083	geckodriver	INFO	Listening on 127.0.0.1:52939
+1668595839588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqH0wSP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595840289	Marionette	INFO	Marionette enabled
+1668595840293	Marionette	INFO	Listening on port 36171
+WebDriver BiDi listening on ws://127.0.0.1:47963
+Read port: 36171
+1668595840510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqH0wSP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47963/devtools/browser/6586ebbe-abc7-4005-b728-0551c89c337d
+1668595842648	Marionette	INFO	Stopped listening on port 36171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668595851064	geckodriver	INFO	Listening on 127.0.0.1:58277
+1668595851070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIRjLgI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595851733	Marionette	INFO	Marionette enabled
+1668595851736	Marionette	INFO	Listening on port 44793
+Read port: 44793
+WebDriver BiDi listening on ws://127.0.0.1:59071
+1668595851857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIRjLgI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59071/devtools/browser/8b189f40-e78d-4667-ac62-06eb99e87135
+1668595856333	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:50:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:50:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2209 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595859451	Marionette	INFO	Stopped listening on port 44793
+1668595862622	geckodriver	INFO	Listening on 127.0.0.1:59313
+1668595863134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexHABmO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668595863882	Marionette	INFO	Marionette enabled
+1668595863886	Marionette	INFO	Listening on port 40827
+Read port: 40827
+WebDriver BiDi listening on ws://127.0.0.1:57773
+1668595863999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexHABmO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57773/devtools/browser/014fe15e-b27f-4ffc-812e-59d0cc87b2ae
+1668595868027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-16T10:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-16T10:51:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668595870390	Marionette	INFO	Stopped listening on port 40827
